@@ -1,0 +1,58 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.idev.idevchat.Fragment.InputSoal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/edSoal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Soal" />
+
+        <EditText
+            android:id="@+id/pil1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Pilihan Jawaban 1" />
+
+        <EditText
+            android:id="@+id/pil2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Pilihan Jawaban 2" />
+
+        <EditText
+            android:id="@+id/pil3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Pilihan Jawaban 3" />
+
+        <EditText
+            android:id="@+id/pil4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Pilihan Jawaban 4" />
+
+        <EditText
+            android:id="@+id/jawaban1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Jawaban"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tambah" />
+
+    </LinearLayout>
+
+</FrameLayout>

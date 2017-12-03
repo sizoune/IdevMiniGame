@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "803339163247",
+    "firebase_url": "https://idevchat-52f43.firebaseio.com",
+    "project_id": "idevchat-52f43",
+    "storage_bucket": "idevchat-52f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803339163247:android:4500d6f019012e82",
+        "android_client_info": {
+          "package_name": "com.idev.idevchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803339163247-lu67bmen74n1c9g1haksin9ddujvba4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idev.idevchat",
+            "certificate_hash": "543a7237f18b49b019afafc31894b045b85f3134"
+          }
+        },
+        {
+          "client_id": "803339163247-gb10jj5v0jjnl6cf1ob451ig9npdt93j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkobbIV_9oaoU7o1tjod7vnIz1ilQPblg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803339163247-gb10jj5v0jjnl6cf1ob451ig9npdt93j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
